@@ -1,0 +1,273 @@
+{
+  "timestamp": "2026-07-09T06:00:00.362Z",
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "$2b$10$epo/x/E.JT2ywTs4S2VfmOF0qp44sKJTLWbVVahYRgyUyvTz8YKM6",
+      "name": "Super Admin",
+      "role": "ADMIN",
+      "createdAt": "2026-07-03T07:14:34.856Z",
+      "upiId": null
+    },
+    {
+      "id": 23,
+      "username": "manoj",
+      "password": "$2b$10$w14AVd.gzc.AxLg4beQ/hO2ikeVZdsZTr5N8fSu3I9MMw2gsf7Gbq",
+      "name": "MANOJ",
+      "role": "COLLECTOR",
+      "createdAt": "2026-07-08T06:32:13.923Z",
+      "upiId": null
+    },
+    {
+      "id": 24,
+      "username": "sarathi",
+      "password": "$2b$10$sbgPcZPEU5UveLawefKLO.SH8hsGseZUdSCo82VYn2KIG9p3ORFmC",
+      "name": "SARATHI",
+      "role": "CASHIER",
+      "createdAt": "2026-07-08T09:36:39.644Z",
+      "upiId": null
+    },
+    {
+      "id": 25,
+      "username": "ajith",
+      "password": "$2b$10$ENRJ/vrBnO7sPqfvsawLD.fSHxrE0pbz1eJ20YRumdlkmYJyIEU8a",
+      "name": "AJITH KUMMAR",
+      "role": "COLLECTOR",
+      "createdAt": "2026-07-08T09:36:58.937Z",
+      "upiId": null
+    },
+    {
+      "id": 26,
+      "username": "magesh",
+      "password": "$2b$10$JLhfSSoSl66rsXbW8zHZA.4lACjJTtyFCmclUtdHI1LxJHFF0OPIK",
+      "name": "MAGESH",
+      "role": "COLLECTOR",
+      "createdAt": "2026-07-08T09:37:24.148Z",
+      "upiId": null
+    },
+    {
+      "id": 27,
+      "username": "karthik",
+      "password": "$2b$10$s5tE/tcq7uQRUNINGnQgsel0ogltX7a41wuE89QV5pUQbRzW2v.De",
+      "name": "KARTHIK",
+      "role": "COLLECTOR",
+      "createdAt": "2026-07-08T09:38:22.442Z",
+      "upiId": null
+    },
+    {
+      "id": 28,
+      "username": "gokul",
+      "password": "$2b$10$amSodZNzZr/XuR85FAMP.elraxVBznpMvFvpHHu.p3oqng5fjSSaC",
+      "name": "GOKULRAAM",
+      "role": "COLLECTOR",
+      "createdAt": "2026-07-08T09:39:21.644Z",
+      "upiId": null
+    },
+    {
+      "id": 29,
+      "username": "vijayasarathi",
+      "password": "$2b$10$vrjbnpm4AsMsrIYnPOkGL.vB/4AksLdTQqgiTJavXTsMRxPUB8vNW",
+      "name": "SARATHI",
+      "role": "COLLECTOR",
+      "createdAt": "2026-07-08T09:39:54.846Z",
+      "upiId": null
+    },
+    {
+      "id": 30,
+      "username": "sasi",
+      "password": "$2b$10$sFPy2AnJskfPc3dwOyYvT.BIE/XkunwGBZgTkKjRGnFuhw6W8D9we",
+      "name": "SASI KUMAR",
+      "role": "COLLECTOR",
+      "createdAt": "2026-07-08T09:40:29.843Z",
+      "upiId": null
+    },
+    {
+      "id": 31,
+      "username": "sathish",
+      "password": "$2b$10$DtookNLmtZeoNrD5zmuGOO4x0VWOU8zpS0EXmNSSQ5wTqiSu5pKNm",
+      "name": "SATHISH KUMAR",
+      "role": "COLLECTOR",
+      "createdAt": "2026-07-08T09:40:52.144Z",
+      "upiId": null
+    }
+  ],
+  "donors": [
+    {
+      "id": 81,
+      "receiptNumber": "2026-0001",
+      "donorName": "MANOJ",
+      "mobile": "9345632035",
+      "street": "Kambar Street",
+      "doorNumber": "2",
+      "amount": 1000,
+      "paymentMode": "Cash",
+      "purpose": "Vinayagar Chadurthi 2026",
+      "remarks": "",
+      "collector": "Super Admin",
+      "userId": 1,
+      "date": "2026-07-09T04:34:59.986Z",
+      "pdfUrl": "https://billingsystemvc2026.onrender.com/api/donations/2026-0001/pdf",
+      "upiScreenshot": null,
+      "latitude": 12.871,
+      "longitude": 80.08493,
+      "createdAt": "2026-07-09T04:34:59.986Z",
+      "updatedAt": "2026-07-09T04:35:00.138Z"
+    },
+    {
+      "id": 82,
+      "receiptNumber": "2026-0002",
+      "donorName": "prasad",
+      "mobile": "9345632035",
+      "street": "Kumaran Street",
+      "doorNumber": "2",
+      "amount": 1000,
+      "paymentMode": "Cash",
+      "purpose": "Vinayagar Chadurthi 2026",
+      "remarks": "",
+      "collector": "MANOJ",
+      "userId": 23,
+      "date": "2026-07-09T05:59:58.558Z",
+      "pdfUrl": "https://billingsystemvc2026.onrender.com/api/donations/2026-0002/pdf",
+      "upiScreenshot": null,
+      "latitude": 12.8709925,
+      "longitude": 80.08492649999998,
+      "createdAt": "2026-07-09T05:59:58.558Z",
+      "updatedAt": "2026-07-09T05:59:58.632Z"
+    }
+  ],
+  "expenses": [],
+  "cashTransfers": [],
+  "loginLogs": [
+    {
+      "id": 105,
+      "userId": 1,
+      "photoBase64": "https://raw.githubusercontent.com/manojt20062007/BillingSystemVC2026_files/main/login-images/login-admin-1783499079663.jpg",
+      "loginLatitude": 12.870981,
+      "loginLongitude": 80.08493,
+      "logoutTime": "2026-07-08T08:32:35.605Z",
+      "logoutLatitude": 12.870998505996177,
+      "logoutLongitude": 80.08492457825545,
+      "createdAt": "2026-07-08T08:24:40.694Z"
+    },
+    {
+      "id": 106,
+      "userId": 1,
+      "photoBase64": "https://raw.githubusercontent.com/manojt20062007/BillingSystemVC2026_files/main/login-images/login-admin-1783503375435.jpg",
+      "loginLatitude": 12.870995,
+      "loginLongitude": 80.08493,
+      "logoutTime": "2026-07-08T09:43:31.577Z",
+      "logoutLatitude": 12.870995,
+      "logoutLongitude": 80.08493,
+      "createdAt": "2026-07-08T09:36:16.481Z"
+    },
+    {
+      "id": 107,
+      "userId": 24,
+      "photoBase64": "https://raw.githubusercontent.com/manojt20062007/BillingSystemVC2026_files/main/login-images/login-sarathi-1783503825547.jpg",
+      "loginLatitude": 12.870995,
+      "loginLongitude": 80.08493,
+      "logoutTime": "2026-07-08T10:15:29.596Z",
+      "logoutLatitude": 12.870995,
+      "logoutLongitude": 80.08493,
+      "createdAt": "2026-07-08T09:43:46.712Z"
+    },
+    {
+      "id": 108,
+      "userId": 1,
+      "photoBase64": "https://raw.githubusercontent.com/manojt20062007/BillingSystemVC2026_files/main/login-images/login-admin-1783509234919.jpg",
+      "loginLatitude": null,
+      "loginLongitude": null,
+      "logoutTime": null,
+      "logoutLatitude": null,
+      "logoutLongitude": null,
+      "createdAt": "2026-07-08T11:13:56.062Z"
+    },
+    {
+      "id": 109,
+      "userId": 1,
+      "photoBase64": "https://raw.githubusercontent.com/manojt20062007/BillingSystemVC2026_files/main/login-images/login-admin-1783516109520.jpg",
+      "loginLatitude": null,
+      "loginLongitude": null,
+      "logoutTime": "2026-07-08T13:10:03.689Z",
+      "logoutLatitude": 12.871012,
+      "logoutLongitude": 80.084915,
+      "createdAt": "2026-07-08T13:08:30.506Z"
+    },
+    {
+      "id": 110,
+      "userId": 1,
+      "photoBase64": "https://raw.githubusercontent.com/manojt20062007/BillingSystemVC2026_files/main/login-images/login-admin-1783516250968.jpg",
+      "loginLatitude": null,
+      "loginLongitude": null,
+      "logoutTime": null,
+      "logoutLatitude": null,
+      "logoutLongitude": null,
+      "createdAt": "2026-07-08T13:10:52.195Z"
+    },
+    {
+      "id": 112,
+      "userId": 1,
+      "photoBase64": "https://raw.githubusercontent.com/manojt20062007/BillingSystemVC2026_files/main/login-images/login-admin-1783534242951.jpg",
+      "loginLatitude": 12.8605197,
+      "loginLongitude": 80.2311359,
+      "logoutTime": "2026-07-08T18:13:32.463Z",
+      "logoutLatitude": 12.8605192,
+      "logoutLongitude": 80.2311428,
+      "createdAt": "2026-07-08T18:10:43.914Z"
+    },
+    {
+      "id": 111,
+      "userId": 1,
+      "photoBase64": "https://raw.githubusercontent.com/manojt20062007/BillingSystemVC2026_files/main/login-images/login-admin-1783526961181.jpg",
+      "loginLatitude": 12.860455586155336,
+      "loginLongitude": 80.23091063875451,
+      "logoutTime": "2026-07-09T05:52:50.017Z",
+      "logoutLatitude": null,
+      "logoutLongitude": null,
+      "createdAt": "2026-07-08T16:09:22.330Z"
+    },
+    {
+      "id": 113,
+      "userId": 24,
+      "photoBase64": "https://raw.githubusercontent.com/manojt20062007/BillingSystemVC2026_files/main/login-images/login-sarathi-1783576398501.jpg",
+      "loginLatitude": null,
+      "loginLongitude": null,
+      "logoutTime": null,
+      "logoutLatitude": null,
+      "logoutLongitude": null,
+      "createdAt": "2026-07-09T05:53:19.487Z"
+    },
+    {
+      "id": 114,
+      "userId": 23,
+      "photoBase64": "https://raw.githubusercontent.com/manojt20062007/BillingSystemVC2026_files/main/login-images/login-manoj-1783576472204.jpg",
+      "loginLatitude": null,
+      "loginLongitude": null,
+      "logoutTime": null,
+      "logoutLatitude": null,
+      "logoutLongitude": null,
+      "createdAt": "2026-07-09T05:54:33.123Z"
+    }
+  ],
+  "settings": [
+    {
+      "id": 1,
+      "associationName": "Dr. A.P.J. Abdul Kalam Association",
+      "presidentName": "Sasi kumar C",
+      "secretaryName": "VIJAYASARATHI V",
+      "defaultPurpose": "Vinayagar Chadurthi 2026",
+      "financialYear": "2026-2027",
+      "githubRepo": "manojt20062007/BillingSystemVC2026_files",
+      "whatsappMessage": "Hello {donorName} 🙏\n\nHeartfelt thanks for your donation to the Vinayagar Chaturthi festival.\n\nDonation Amount: ₹{amount} Receipt Number: {receiptNumber}\n\nTo download your receipt: {pdfUrl}\n\nClick the link below to join your street's WhatsApp group: {streetLink}\n\nThank you.",
+      "whatsappMessageTa": "வணக்கம் {donorName} 🙏\n\nவிநாயகர் சதுர்த்தி விழாவிற்கு நீங்கள் வழங்கிய நன்கொடைக்கு மனமார்ந்த நன்றிகள். \n\nநன்கொடை தொகை: ₹{amount}\nரசீது எண்: {receiptNumber}\n\nஉங்கள் ரசீதை பதிவிறக்கம் செய்ய:\n{pdfUrl}\n\nஉங்கள் தெருவிற்கான வாட்ஸ்அப் குழுவில் இணைய கீழே உள்ள லிங்கை கிளிக் செய்யவும்:\n{streetLink}\n\nநன்றி.\n",
+      "upiId": "sarathirainbow@okhdfcbank",
+      "streetLinks": {
+        "Kambar Street": "https://chat.whatsapp.com/ITG76tLXQf0H6KfZe0SSAB",
+        "Kumaran Street": "https://chat.whatsapp.com/J42YKcEyQ8JGWarcj7UnNw",
+        "Maruthi Street": "https://chat.whatsapp.com/HuL7HNKqqwU9M6Z1UypUcz"
+      },
+      "updatedAt": "2026-07-08T08:25:30.341Z"
+    }
+  ]
+}
